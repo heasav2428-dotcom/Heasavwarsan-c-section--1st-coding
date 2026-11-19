@@ -2,6 +2,6 @@
 
 int main()
 {
-         printf("💔️HEASAV💔️");
+         printf("HEASAV");
          return 0;
 }
